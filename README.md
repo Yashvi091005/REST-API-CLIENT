@@ -66,4 +66,6 @@ Integration-ready for further UI or logging improvements
 Task 2 provided valuable hands-on experience with REST APIs and taught the practical aspects of HTTP request/response cycles, working with JSON data in Java, and making applications dynamic with real-time input. This project improves skills that are directly transferable to real-world full-stack or backend developer roles. It was a successful and insightful exercise under the CodTech Java Internship.
 
 output: 
+![Image](https://github.com/user-attachments/assets/19aa5b1e-b07a-4e36-8946-267f157800bf)
 
+![Image](https://github.com/user-attachments/assets/93ec3c88-5c43-4b08-a7f5-67ca7a378b19)
